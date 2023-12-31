@@ -27,6 +27,21 @@ xdebug.mode=debug
 xdebug.start_with_request=yes
 ```
 
+Après la résolution d'un problème  #1
+
+```conf
+[XDebug]
+zend_extension="C:\php\ext\php_xdebug.dll"
+xdebug.mode = debug,develop
+xdebug.discover_client_host = yes
+xdebug.log_level = 0
+xdebug.log = "%sprogdir%/userdata/temp/xdebug/log.txt"
+xdebug.start_with_request = yes
+xdebug.idekey = VSCODE
+```
+
+
+
 4. Installation de l'extention VS Code 
 - PHP Debug
 
