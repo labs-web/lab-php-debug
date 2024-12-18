@@ -40,11 +40,8 @@ xdebug.start_with_request = yes
 xdebug.idekey = VSCODE
 ```
 
-
-
 4. Installation de l'extention VS Code 
 - PHP Debug
-
 
 ## Ressources
 - [How to debug PHP in Visual Studio Code (Simple steps)](https://www.youtube.com/watch?v=8ka_Efpl21Y)
